@@ -1,0 +1,23 @@
+@import '../data//styles.scss';
+
+
+.table__words{
+    display: flex;
+    justify-content: space-evenly;
+
+ 
+}
+
+
+// .table__button{
+//  padding: 10px 10px 10px 10px;
+// }
+
+
+.tables{
+    text-align: $center;
+}
+.tables:hover{
+    background-color: $colorFon;
+    border-radius: $border;
+}
